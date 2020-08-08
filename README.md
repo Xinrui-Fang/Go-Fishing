@@ -8,7 +8,7 @@ AR capstone project for M1 spring semester
 
 ## Introduction
 In this project, we proposed a fishing MR application to take fishing lovers immersive fishing experience. Educational purpose is granted also, users can learn fish specie introduction, fishing tricks and tips in this application. Moreover, we designed a complete UI interactive system based on user experience design.
-<img src="https://github.com/Xinrui-Fang/Go-Fishing/blob/master/img/Playing.png" width = "1000"  alt="" align=center /><br/>
+<img src="https://github.com/Xinrui-Fang/Go-Fishing/blob/master/img/Playing.png" width = "600"  alt="" align=center /><br/>
 
 
 ## Background
@@ -21,7 +21,7 @@ In this section, I will introduce implementation details below, including physic
 
 ### Physical Prototype
 For the purpose of granting users immersive fishing experience, we mixed the fishing rod and smartphone together, as shown in Figure 1. Users can place the smart phone horizontally at the smart phone holder on the fishing rod. Simultaneously, cylinder target is implemented as fishing lure. We tried a lot AR target before, cylinder target is the most suitable for this project due to the contribution of rotation non-sensitive. On the contrary, image target is only suitable on the ground plane, and object target can only be tracked at specific angles. Once we install the cylinder target to the fishing rod, fishing reel is facilitated to control the movement of cylinder target. When cylinder target is put down and can be detectable by the camera, the virtual fishing models will be generated on the cylinder target.   
-<img src="https://github.com/Xinrui-Fang/Go-Fishing/blob/master/img/Fishing%20reel.jpg" width = "1000"  alt="" align=center /><br/>
+<img src="https://github.com/Xinrui-Fang/Go-Fishing/blob/master/img/Fishing%20reel.jpg" width = "600"  alt="" align=center /><br/>
 
 
 ### Game Design
