@@ -7,7 +7,7 @@ AR capstone project for M1 spring semester
 * Vuforia 9.2.4
 
 ## Introduction
-In this project, we proposed a fishing MR application to take fishing lovers immersive fishing experience. Educational purpose is granted also, users can learn fish specie introduction, fishing tricks and tips in this application. Moreover, we designed a complete UI interactive system based on user experience design.
+In this project, we proposed a fishing MR application to take fishing lovers immersive fishing experience. Educational purpose is granted also, users can learn fish specie introduction, fishing tricks and tips in this application. Moreover, we designed a complete UI interactive system based on user experience design.<br/>
 <img src="https://github.com/Xinrui-Fang/Go-Fishing/blob/master/img/Playing.png" width = "600"  alt="" align=center /><br/>
 
 
